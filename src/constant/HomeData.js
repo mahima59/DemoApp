@@ -1,0 +1,11 @@
+module.exports={
+    data:[
+        {iconName:"Test1",iconImage:"#1abc9c"},
+        {iconName:"Test2",iconImage:"#3498db"},
+        {iconName:"Test3",iconImage:"#34495e"},
+        {iconName:"Test4",iconImage:"#2ecc71"},
+        {iconName:"Test5",iconImage:"#27ae60"},
+        {iconName:"Test6",iconImage:"#e74c3c"},
+        {iconName:"Test7",iconImage:"#e74c3c"}
+    ]
+}
